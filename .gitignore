@@ -1,0 +1,16 @@
+# NEVER commit recon output — it can contain real secrets / PII pulled from targets
+recon/
+out/
+screenshots/
+report.html
+**/secrets.txt
+**/api_perms.txt
+**/keys.txt
+
+# scratch / backups / logs
+*.bak
+*.log
+__pycache__/
+.env
+.env.*
+.DS_Store
