@@ -1,4 +1,4 @@
-# recon-kit-v2 — 2026 "stay or leave" triage, tuned for what actually pays
+# recon-kit-v2 — 2026-08 "stay or leave" triage, tuned for what actually pays
 
 Same one question as [recon-kit](../recon-kit) v1 — **is there a primitive here
 worth my time?** — re-tuned for the 2026 reality and re-built as modules. It does the
