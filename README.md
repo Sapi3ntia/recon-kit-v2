@@ -13,7 +13,7 @@ worth my time?** — re-tuned for the 2026 reality and re-built as modules. It d
 
 ## Why v2 exists (what changed since v1)
 
-The 2025 HackerOne HPSR + the current disclosed-report stream moved the goalposts:
+The HackerOne HPSR + the current disclosed-report stream moved the goalposts:
 
 - **Access-control / IDOR / BOLA displaced XSS** as the dominant *paid* class. Logic and
   authz flaws pay the most. Pattern bugs (reflected XSS, open redirect) are increasingly
